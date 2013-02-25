@@ -40,6 +40,42 @@ namespace connMng {
         protected global::System.Web.UI.UpdatePanel UpdatePanel1;
         
         /// <summary>
+        /// ASPxPopupControl1 элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl ASPxPopupControl1;
+        
+        /// <summary>
+        /// PopupControlContentControl1 элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxPopupControl.PopupControlContentControl PopupControlContentControl1;
+        
+        /// <summary>
+        /// DialogText элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxEditors.ASPxLabel DialogText;
+        
+        /// <summary>
+        /// btnOK элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOK;
+        
+        /// <summary>
         /// pcConnectionManager элемент управления.
         /// </summary>
         /// <remarks>
@@ -94,6 +130,15 @@ namespace connMng {
         protected global::DevExpress.Web.ASPxEditors.ASPxRadioButtonList rblAuthType;
         
         /// <summary>
+        /// UpdateProgress2 элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.UpdateProgress UpdateProgress2;
+        
+        /// <summary>
         /// ASPxPanel1 элемент управления.
         /// </summary>
         /// <remarks>
@@ -121,22 +166,22 @@ namespace connMng {
         protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel6;
         
         /// <summary>
-        /// ASPxTextBox1 элемент управления.
+        /// tbLogin элемент управления.
         /// </summary>
         /// <remarks>
         /// Автоматически создаваемое поле.
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox ASPxTextBox1;
+        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox tbLogin;
         
         /// <summary>
-        /// ASPxTextBox2 элемент управления.
+        /// tbPassword элемент управления.
         /// </summary>
         /// <remarks>
         /// Автоматически создаваемое поле.
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox ASPxTextBox2;
+        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox tbPassword;
         
         /// <summary>
         /// btnConnect элемент управления.
